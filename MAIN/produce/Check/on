@@ -1,0 +1,1 @@
+checkCurrentSpeed().then(result => console.log("works",result));
